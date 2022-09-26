@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Montse 
+ * @author - Montse Viyuela
  *  
  */
 public class Estudiante
