@@ -15,7 +15,7 @@ public class TestEstudiante
         e1.printEstudiante();
         Estudiante e2 = new Estudiante("Ana Isabel", 8);
         e2.printEstudiante();
-        Estudiante e3 = new Estudiante("Juan", 6);
+        Estudiante e3 = new Estudiante("Juan", 7);
         e3.printEstudiante();
 
     }
