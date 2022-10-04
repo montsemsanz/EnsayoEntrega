@@ -36,7 +36,7 @@ public class Estudiante
     }
 
     /**
-     * Mostrar datos del estudiante
+     * Mostrar en pantalla datos del estudiante
      */
     public void printEstudiante() {
         System.out.println("Nombre: " + nombre +
