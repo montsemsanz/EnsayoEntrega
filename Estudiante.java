@@ -28,7 +28,7 @@ public class Estudiante
     }
 
     /**
-     * Accesor para la nota
+     * Accesor para la nota del estudiante
      */
     public int getNota() {
         return nota;
