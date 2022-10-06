@@ -2,8 +2,8 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Montse 
- *  
+ * @author - Iker 
+ * @colaborator - Montse 
  */
 public class Estudiante
 {
